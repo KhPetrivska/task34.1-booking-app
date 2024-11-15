@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/booking-app/static/css/main.f855e6bc.css",
-    "main.js": "/booking-app/static/js/main.3d46dd02.js",
-    "index.html": "/booking-app/index.html",
-    "main.f855e6bc.css.map": "/booking-app/static/css/main.f855e6bc.css.map",
-    "main.3d46dd02.js.map": "/booking-app/static/js/main.3d46dd02.js.map"
+    "main.css": "/task34.1-booking-app/static/css/main.f855e6bc.css",
+    "main.js": "/task34.1-booking-app/static/js/main.3d46dd02.js",
+    "index.html": "/task34.1-booking-app/index.html",
+    "main.f855e6bc.css.map": "/task34.1-booking-app/static/css/main.f855e6bc.css.map",
+    "main.3d46dd02.js.map": "/task34.1-booking-app/static/js/main.3d46dd02.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
